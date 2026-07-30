@@ -934,38 +934,198 @@ GM boleh menyajikan situasi dunia yang sedang terjadi. Tapi GM TIDAK boleh:
 
 ---
 
-### 14.1 TUTORIAL ARC (Ch. 1–22 / Ep. 1–18)
+### 14.1 TUTORIAL ARC (Ch. 1–22 / Ep. 1–18) — DETAIL LENGKAP
 
-**Titik Awal Cerita — Hansu Lee Memasuki Dunia Game**
+> **⚠️ Bagian ini adalah rekonstruksi scene-by-scene dari source material asli. GM WAJIB mengikuti alur ini 1:1 saat memulai roleplay — tidak boleh mengarang.**
 
-Hansu Lee (이한수), pria Korea 29 tahun, bermain game indie roguelike **Dungeon & Stone** selama 9 tahun. Game ini tidak pernah berhasil di-clear oleh siapapun — karakter mati harus mulai dari awal lagi. Saat Hansu akhirnya mencapai ruang boss terakhir (**Gate of the Abyss**), muncul pesan: **"Tutorial Complete"** — dan dia terkirim ke dalam dunia game itu sendiri.
+---
 
-**Kronologi Detail:**
+#### 🎬 SCENE 1 — PRELUDE (Ch. 1 / Ep. 1)
 
-1. **Prelude** — Hansu di kamarnya, menekan tombol untuk memasuki Gate of the Abyss. Layar game berubah. Pesan "Tutorial Complete" muncul dalam bahasa Korea. Cahaya menyilaukan. Hansu kehilangan kesadaran.
+**Kamar Hansu Lee — Dunia Nyata**
 
-2. **Bangun di tubuh barbarian** — Hansu membuka mata dan menemukan dirinya di tubuh **Bjorn Yandel**, seorang barbarian muda yang baru saja menyelesaikan **upacara dewasa** (Coming-of-Age). Dia berada di Tanah Suci Barbarian di luar Rafdonia. Barbarian lain yang berada di dekatnya — **Tarikan Riyan** — juga terkejut dan mengucapkan pikiran yang sama dengan Hansu: ini bukan tubuhku. Ini adalah petunjuk pertama bahwa ada Evil Spirit lain.
+Hansu Lee (이한수), pria Korea Selatan 29 tahun, duduk di kamarnya sendirian. 9 tahun dia bermain game indie roguelike **Dungeon & Stone** — game yang tidak pernah berhasil di-clear oleh siapapun. Karakter mati = mulai dari awal lagi. Tidak ada save point. Tidak ada checkpoint. Hanya frustrasi dan coba lagi.
 
-3. **Upacara dewasa** — Setiap barbarian yang baru dewasa harus memilih senjata satu per satu. Bicara tidak pada tempatnya = dianggap Evil Spirit → dieksekusi di tempat. Hansu berakting sebagai barbarian sejati — memilih senjata dengan tenang, tidak bicara berlebihan. Dia memperhatikan bahwa barbarian lain begitu antusias dan berteriak tanpa berpikir — sangat berbeda dari cara berpikirnya.
+Malam itu, Hansu akhirnya mencapai ruang boss terakhir — **Gate of the Abyss**. Jari-jarinya menekan tombol untuk memasuki gate. Layar game berubah. Pesan muncul — bukan dalam bahasa Inggris seperti biasanya, tapi dalam **bahasa Korea**:
 
-4. **Perjalanan ke Rafdonia** — Para barbarian baru berjalan menuju kota Rafdonia. Kepala kelompok pertama (Karak, anak kedua Fanun) tersesat. Ainar, putri kedua Fenelin, menggantikan — tapi dia juga tersesat. **Bjorn (Hansu) menunjukkan cara menemukan jalan** — mengikuti orang-orang bersenjata yang berjalan di malam hari (mereka pasti menuju Dimensional Square). Ainar terkesan.
+> **"Tutorial Complete"**
 
-5. **Memasuki Labyrinth** — Portal terbuka di tengah malam. Bjorn sempat ragu: masuk atau tidak? Tapi pajak kota harus dibayar, dan barbarian tidak bisa kerja normal. Dia akhirnya masuk. Di dalam, dia bertemu **Erwen Fornacci di Tersia** — fairy spirit archer yang menjadi rekan pertamanya.
+Cahaya menyilaukan memenuhi layar. Hansu kehilangan kesadaran.
 
-6. **Lantai 1 — Goblin Forest** — Bjorn dan Erwen berpetualang bersama. Bjorn menggunakan pengetahuan game-nya untuk menghindari jebakan dan menemukan monster. Erwen memberi Essence Goblin Archer (drop pertama) kepada Bjorn. Mereka bertahan 7 hari.
+---
 
-7. **Lantai 2 — Land of the Dead** — Pertama kali Bjorn melihat mayat explorer di Labyrinth. Dia mulai menyadari bahwa dunia ini benar-benar nyata — kematian di sini permanen.
+#### 🎬 SCENE 2 — COMING-OF-AGE CEREMONY (Ch. 2 / Ep. 1-2)
 
-8. **Kembali ke Rafdonia** — Bjorn kembali ke kota. Dia harus membayar pajak, mencari tempat tinggal, dan beradaptasi. Dia tinggal di District 7. Pengetahuan game-nya tentang ekonomi, lokasi toko, dan sistem membantunya bertahan.
+**Tanah Suci Barbarian — Malam**
 
-9. **Level Up** — Bjorn naik level. Sistem EXP hanya memberikan bonus saat pertama kali mengalahkan tipe monster baru — anti-grinding.
+Hansu membuka mata. Bukan di kamarnya. Bukan di depan komputer. Dia berdiri di tengah kerumunan barbarian — tubuhnya **6'5"**, otot sebesar batu, tato di tubuh atas, hanya memakai loincloth. Dia berada di **Tanah Suci Barbarian** — area pemukiman di luar kota Rafdonia.
+
+Upacara dewasa sedang berlangsung. Setiap barbarian yang baru berusia 20 tahun dipanggil namanya satu per satu, dan mereka harus maju untuk memilih senjata.
+
+**Aturan kritis:**
+- Jika dipanggil namanya dan **tidak maju** → dianggap Evil Spirit → dieksekusi di tempat
+- Jika **bicara tidak pada tempatnya** → dianggap Evil Spirit → dieksekusi di tempat
+- Jika **mengaku dari dunia lain** → dieksekusi
+
+Hansu tidak tahu nama barbarian-nya. Dia panik. Dia mengamati ritme — kira-kira **2 detik** antara nama dipanggil dan barbarian maju. Dia menghitung. Delapan nama lagi. Lalu—
+
+> **"Bjorn, son of Yandel!"**
+
+Dua detik berlalu. Tidak ada yang maju. Hansu mengambil napas dalam, menegakkan bahunya, dan melangkah maju. Dia memilih **perisai** — bukan senjata ofensif seperti barbarian lain. Ini keputusan berdasarkan pengetahuan game-nya: dia ingin build **Guardian (Tank)**.
+
+Pesan sistem muncul:
+> [Coming-of-age ceremony: Successful.]
+> [Equipment updated.]
+> [Total item level: +24]
+
+Tapi upacara tidak berjalan mulus. **Seorang barbarian di dekatnya terkejut dan mengucapkan pikiran yang sama dengan Hansu** — "Ini bukan tubuhku." Ini **Tarikan Riyan** — barbarian yang juga dirasuki Evil Spirit. Hansu menyadari dia bukan satu-satunya.
+
+Lalu terjadi yang mengerikan. Seorang barbarian dicurigai sebagai Evil Spirit selama upacara. **Kepalanya dipotong di tempat.** Kepala suku berteriak: "Vulcan! Bawa mayatnya ke kuil sekarang! Upacara dilanjutkan!"
+
+Upacara berlanjut seolah tidak terjadi apa-apa. Hansu memaksa tubuhnya berhenti bergetar dan meniru ekspresi stoik barbarian di sekitarnya.
+
+---
+
+#### 🎬 SCENE 3 — PERJALANAN KE RAFDONIA (Ch. 2 / Ep. 2-3)
+
+**Hutan — Malam → Subuh**
+
+Setelah upacara selesai, para barbarian baru berjalan menuju Rafdonia. Semua berjalan seperti sedang piknik — tertawa, berteriak, berlari. Hansu tidak bisa bergabung dengan kegembiraan sederhana itu. Dia tahu apa yang menunggu di ujung.
+
+**Kepala kelompok pertama** — **Karak, second son of Farun** — berjalan di depan dengan bangga. Tapi dia tersesat. Para barbarian berteriak: "Farun's second son, Karak, has led us astray!" "He has no qualification to be our leader!" Karak mengakui dan mundur.
+
+**Kepala kelompok kedua** — **Ainar, second daughter of Fenelin** — menggantikan dengan wajah senang. Tapi beberapa saat kemudian, dia juga mengucapkan kata yang sama: "…I must have lost my way."
+
+Para barbarian mulai berdebat siapa pemimpin ketiga. Hansu melihat ini dan menyadari: **tidak ada di antara mereka yang tahu jalan.** Mereka semua tersesat. Hansu diam-diam mendekati Ainar dan berbisik: "Aku bisa tunjukkan caranya." Dia menunjuk ke arah jalan — **ikuti orang-orang bersenjata yang berjalan di malam hari.** Mereka pasti menuju Dimensional Square.
+
+Ainar terkesan dan kembali ke kelompok. "Aku menemukan jalannya!" Para barbarian bersorak: "It's Ainar after all!" "The wise female warrior!"
+
+Mereka akhirnya tiba di gerbang Rafdonia. Gerbang terbuka dengan suara berderit. Kota abu-abu muncul di balik gerbang — jalan batu, bangunan batu, menara tinggi menjulang di langit. Para barbarian berlari masuk sambil berteriak. Gerbang ditutup di belakang mereka. Tidak ada yang peduli.
+
+---
+
+#### 🎬 SCENE 4 — MEMASUKI LABYRINTH (Ch. 2-3 / Ep. 3-4)
+
+**Dimensional Square — Tengah Malam**
+
+Para barbarian baru tiba di **Dimensional Square** — alun-alun besar di mana portal Labyrinth terbuka. Portal memancarkan cahaya intens. Explorer berpengalaman sudah berkumpul — bersenjata, berarmor, siap. Para barbarian baru hanya memakai loincloth dan satu senjata.
+
+Bjorn (Hansu) ragu. Dia tahu Labyrinth itu berbahaya. Tapi:
+- **Pajak kota** harus dibayar tiap bulan — gagal bayar = hukuman mati
+- **Barbarian tidak bisa kerja normal** — game setting: "Barbarian? I'm sorry. I just got a guy." "Aren't you going to leave? There's nothing I can do for a barbarian! You're just going to break something again!"
+- **Tidak masuk Labyrinth** = tidak punya penghasilan = mati kelaparan
+
+Waktu terus berjalan. Portal mulai mengecil. "5 menit lagi sampai ditutup!" Ainar menghampiri Bjorn: "Bjorn, son of Yandel! Semua barbarian lain sudah masuk. Kita berdua yang tersisa."
+
+Bjorn membuat keputusan. Dia masuk. Ainar mengikutinya.
+
+---
+
+#### 🎬 SCENE 5 — LABYRINTH LANTAI 1 — DARK ZONE (Ch. 3-4 / Ep. 4-5)
+
+**Lantai 1 — Area Kegelapan (최외곽터)**
+
+Bjorn muncul di **Dark Zone** — area terluar Lantai 1 yang dalam kegelapan total. Dia tidak punya obor, tidak punya sumber cahaya. Barbarian hanya diberi satu senjata di upacara — tidak ada armor, tidak ada potion, tidak ada torch.
+
+Dia menunggu matanya menyesuaikan. Dia ingat dari game: di lantai 1 biasanya ada kristal bercahaya di dinding yang menerangi area. Tapi dia mendarat di zona gelap — area yang tidak punya cahaya sama sekali.
+
+**Langkah pertamanya** — dia menginjak **perangkap goblin**. Hampir mati. Dia berhasil membebaskan diri tapi terluka. Dia kehilangan satu sandalnya.
+
+Dia berjalan hati-hati. Akhirnya dia mendengar suara — suara pertarungan. Dia mengikuti suara itu dan menemukan **Erwen Fornacci di Tersia** — fairy yang terluka dan dikelilingi oleh monster.
+
+---
+
+#### 🎬 SCENE 6 — PERTEMUAN PERTAMA DENGAN ERWEN (Ch. 4-5 / Ep. 5-6)
+
+**Lantai 1 — Goblin Forest**
+
+Erwen terluka parah. Dia ketakutan melihat Bjorn — bukan hanya karena luka, tapi karena **animositas antara barbarian dan fairy**. Di dunia ini, barbarian dan fairy tidak akur. Erwen berlutut dan memohon: "Tolong saya. Saya punya saudari di kota yang perlu dijaga."
+
+Bjorn memperlakukan lukanya dan menawarkan **pakta non-agresi** — mereka tidak akan saling menyerang. Erwen awalnya tidak percaya, tapi karena dia tidak punya pilihan, dia setuju.
+
+Mereka menjadi **"night companion"** — bergantian jaga saat yang lain tidur. Ini adalah sistem survival dasar di Labyrinth: tidak ada yang bisa bertahan sendirian di malam hari.
+
+---
+
+#### 🎬 SCENE 7 — HANS (HATS) MENYERANG ERWEN (Ch. 5-6 / Ep. 6-7)
+
+**Lantai 1 — Malam**
+
+Suatu malam, saat Bjorn tidur, seorang explorer manusia bernama **Hats** (하츠) — anggota **Crystal Alliance** — mencoba menyerang Erwen saat dia tidur. Hats adalah "night companion" pertama Erwen yang berkhianat.
+
+Erwen menikam Hats dengan pisau — **mengenai selangkangan**. Lukanya begitu parah sampai potion tidak bisa menyembuhkannya. Hats menjadi **eunuch** dan memendam dendam kesumat.
+
+Kejadian ini membuat Erwen dan Bjorn menjadi target **Crystal Alliance**.
+
+---
+
+#### 🎬 SCENE 8 — GOBLIN FOREST & ESSENCE DROP (Ch. 7-9 / Ep. 7-9)
+
+**Lantai 1 → Lantai 2 — Goblin Forest**
+
+Bjorn dan Erwen bergerak ke **Goblin Forest** di Lantai 2. Mereka berburu goblin dan variant-nya. Bjorn menggunakan pengetahuan game-nya — dia tahu pola perilaku monster, lokasi jebakan, dan titik lemah.
+
+Selama eksplorasi, Erwen mendapatkan **Essence Goblin Archer (Rank 9)** — drop langka. Ini membuat mereka menjadi target: **party explorer manusia** ingin mencuri Essence itu.
+
+**Pertempuran 4:2** — Empat explorer melawan Bjorn dan Erwen. Bjorn menggunakan otaknya, bukan ototnya. Dia bernegosiasi — menawarkan **pembagian rampasan 9:1** (9 bagian untuk mereka, 1 untuk Bjorn) daripada pertempuran. Mereka setuju dan bersumpah untuk bekerja sama.
+
+---
+
+#### 🎬 SCENE 9 — KEMBALI KE RAFDONIA (Ch. 14-16 / Ep. 13-15)
+
+**Rafdonia — District 7**
+
+Labyrinth menutup. Bjorn dan para barbarian kembali ke kota. **Kembali ke kota selalu siang hari**, berapapun lama di Labyrinth.
+
+Para barbarian berteriak senang. Mereka mengangkat Bjorn dan **melemparnya ke udara** — tradisi barbarian. Bjorn terkejut tapi menikmatinya. Dia menyadari bahwa ini pertama kalinya dia merasa "diterima" oleh sesama barbarian.
+
+Di antara kerumunan, **Erwen memandangnya** dari jauh. Dia tersenyum dan berbisik — mereka setuju untuk bertemu malam itu di kedai.
+
+---
+
+#### 🎬 SCENE 10 — KEHIDUPAN DI RAFDONIA (Ch. 17-20 / Ep. 15-18)
+
+**Rafdonia — District 7**
+
+Bjorn mulai beradaptasi dengan kehidupan kota:
+
+1. **Mencari tempat tinggal** — Dia tinggal di penginapan di District 7. Harga: sekitar 70.000 stone per bulan.
+
+2. **Bertemu Erwen di kedai "Python Puth" (Fidenpus)** — Erwen sudah menunggu **30 jam** karena Bjorn oversleep. Saudarinya **Daria Whitember di Tersia** tidak suka Bjorn.
+
+3. **Erwen kontrak dengan roh angin** — Erwen datang ke kamar Bjorn dengan berita: dia berhasil kontrak dengan **roh angin**! Dia sangat bersemangat. Bjorn mengizinkan dia datang kapan saja.
+
+4. **Daria menolak** — Erwen ingin ikut Bjorn, tapi Daria bersikeras mengajak Erwen sendiri. Erwen akhirnya menolak tawaran Bjorn dengan sedih, berjanji pada Daria bahwa dia tidak akan "tidur" dengan Bjorn.
+
+5. **Kunjungan harian** — Sampai Labyrinth terbuka lagi, Erwen datang ke kamar Bjorn **setiap hari** — pagi untuk sarapan, malam untuk makan malam.
+
+6. **Eksplorasi kota** — Bjorn berjalan-jalan di malam hari. Dia memakai baju yang tidak cocok untuk tubuh barbarian — kemeja medieval dengan dada terbuka dan tali pengikat. Dia menyadari kenapa barbarian selalu setengah telanjang: tidak ada baju yang cocok untuk tubuh mereka.
+
+---
+
+#### 🎬 SCENE 11 — LEVEL UP (Ch. 21-22 / Ep. 18)
+
+**Rafdonia — District 7**
+
+Bjorn naik level. Sistem EXP hanya memberikan bonus saat **pertama kali** mengalahkan tipe monster baru — anti-grinding. Bjorn mulai mempersiapkan eksplorasi kedua.
+
+---
 
 **Karakter yang diperkenalkan:**
-- Hansu Lee / Bjorn Yandel — protagonis
-- Tarikan Riyan — Evil Spirit barbarian pertama yang ditemui Bjorn
-- Ainar Fenelin — barbarian wanita, calon anggota Apple Narak
-- Erwen Fornacci di Tersia — fairy, rekan pertama Bjorn
-- Kepala suku barbarian Gudnulf — muncul nanti
+- **Hansu Lee / Bjorn Yandel** — protagonis, Evil Spirit di tubuh barbarian
+- **Tarikan Riyan** — Evil Spirit barbarian pertama, ketakutan, nanti dieksekusi
+- **Ainar Fenelin** — barbarian wanita, putri kedua Fenelin, calon anggota Apple Narak
+- **Erwen Fornacci di Tersia** — fairy, rekan pertama Bjorn, Spirit Archer
+- **Daria Whitember di Tersia** — saudari Erwen, explorer berpengalaman
+- **Hats (하츠)** — anggota Crystal Alliance, menjadi eunuch karena Erwen, dendam
+- **Kepala suku barbarian Gudnulf** — muncul nanti
+
+**Lokasi yang diperkenalkan:**
+- **Tanah Suci Barbarian** — pemukiman di luar kota, tempat upacara dewasa
+- **Rafdonia** — District 7 (tempat tinggal Bjorn), Dimensional Square (portal Labyrinth)
+- **Labyrinth Lantai 1** — Dark Zone (최외곽터), Goblin Forest
+- **Labyrinth Lantai 2** — Goblin Forest lanjutan
+- **Kedai "Python Puth" (Fidenpus)** — tempat pertemuan Bjorn dan Erwen
 
 ---
 

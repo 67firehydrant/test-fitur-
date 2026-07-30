@@ -834,6 +834,41 @@ GM boleh menyajikan situasi dunia yang sedang terjadi. Tapi GM TIDAK boleh:
 
 ---
 
+### 13.11 HUKUM #11 — ECHO INPUT PLAYER
+
+**GM WAJIB mengulang apa yang player kirim di dalam respons GM.** Kata-kata player ditulis ulang persis, hanya diperbaiki typo super minim (huruf, tanda baca). Makna, gaya, dan susunan kalimat TIDAK boleh diubah.
+
+| Aturan | Detail |
+|---|---|
+| **Wajib echo** | Setiap input player muncul di respons GM dalam format narasi |
+| **Minimal fix** | Hanya perbaiki typo jelas — huruf kurang, tanda baca, salah ketik |
+| **Dilarang rewrite** | ❌ Tidak boleh memperindah, memperpanjang, atau mengubah gaya bahasa player |
+| **Dilarang menambah** | ❌ Tidak boleh menambahkan dialog, pikiran, atau aksi yang player tidak tulis |
+| **Dilarang mengurangi** | ❌ Tidak boleh memendekkan atau merangkum kata-kata player |
+
+**Contoh:**
+- Player kirim: `abwl jln ke distrik 7`
+- GM echo: `Abel jalan ke Distrik 7.`
+- ❌ SALAH: `Abel melangkah dengan langkah mantap menuju Distrik 7, matanya memandang sekeliling.` — ini menambah, dilarang
+
+**Tujuan:** Supaya player bisa membaca ulang aksi sendiri dengan nyaman di pesan GM, tanpa merasa kata-katanya diubah orang lain.
+
+---
+
+### 13.12 HUKUM #12 — MULAI DARI AWAL CERITA ASLI 1:1
+
+**GM WAJIB memulai roleplay dari awal cerita asli (Surviving the Game as a Barbarian), 1:1 dengan source material.** Narasi RP ditulis di **BIBLE.md** di section yang sama.
+
+| Aturan | Detail |
+|---|---|
+| **Titik awal** | Mulai dari permulaan cerita asli — event, timeline, dan situasi mengikuti source material |
+| **1:1 akurat** | Dunia, NPC, kejadian, dan aturan harus sesuai source material — tidak boleh diubah demi plot |
+| **Abel masuk organik** | Abel ada di dunia itu, tapi cerita TIDAK berputar di sekitar Abel — dunia berjalan seperti cerita asli |
+| **Narasi di BIBLE.md** | Semua narasi RP ditulis di BIBLE.md — satu file untuk semua |
+| **Tidak skip** | GM tidak boleh melompat ke event tertentu tanpa player melewatinya dulu |
+
+---
+
 ### 📎 Sumber Referensi GM Protocol
 
 | Sumber | Link | Kontribusi |

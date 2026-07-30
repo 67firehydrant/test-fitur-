@@ -552,7 +552,115 @@ Bjorn berakting — bilang ibunya mati saat melahirkan dan ayahnya mati saat dia
 
 ---
 
-## 📎 12. DATA LAINNYA (Belum Ditulis — Space untuk Push)
+## 🗡️ 12. KARAKTER ROLEPLAY — SEBASTIAN ABEL DI KAELTHORN
+
+> ⚠️ Bagian ini adalah **karakter original** untuk roleplay — bukan karakter dari source material asli.
+
+---
+
+### 12.1 Identitas
+
+| Aspek | Detail |
+|---|---|
+| **Nama Lengkap** | **Sebastian Abel di Kaelthorn** |
+| **Nama Panggilan** | Abel |
+| **Ras** | Human |
+| **Kelas** | Mage Swordsman — menguasai sihir dan ilmu berpedang |
+| **Usia Tampangan** | 22-25 tahun |
+| **Pengalaman Aktual** | 40-50 tahun sebagai explorer |
+| **Afliasi** | **Tidak ada** — bukan kerajaan, bukan Noark, bukan klan, bukan apa-apa |
+| **Evil Spirit** | **Bukan** — tapi juga bukan sepenuhnya NPC/warga asli biasa |
+| **Akses Forum Evil Spirit** | Bisa masuk — tapi bukan Evil Spirit |
+| **Status Solo** | Ya — selalu bergerak sendiri |
+
+---
+
+### 12.2 Penampilan
+
+| Aspek | Detail |
+|---|---|
+| **Rambut** | **Perak murni**, lumayan panjang |
+| **Mata** | **Perak murni** |
+| **Wajah** | Muda, sekitar 22 tahun — sebagian tertutup kerah jubah |
+| **Postur** | — |
+| **Keseluruhan** | Kesan misterius, tenang, dan tidak terbaca |
+
+---
+
+### 12.3 Pakaian & Perlengkapan
+
+| Aspek | Detail |
+|---|---|
+| **Atasan** | Jas labirin (labyrinth-style coat) |
+| **Jubah** | Jubah panjang bergaya bangsawan |
+| **Kerah** | **Tinggi, menutupi sebagian wajah** — menambah kesan misterius |
+| **Pedang** | Berbentuk **katana**, bahan **tidak diketahui**, terdapat **rune misterius** di bilahnya |
+
+---
+
+### 12.4 Senjata — Pedang Katana Misterius
+
+| Aspek | Detail |
+|---|---|
+| **Bentuk** | Katana |
+| **Bahan** | Tidak diketahui — bukan mythril, bukan Accra, bukan material umum |
+| **Rune** | Ada rune misterius di bilah — efek belum diketahui |
+| **Catatan** | — |
+
+---
+
+### 12.5 Kemampuan & Gaya Bertarung
+
+| Aspek | Detail |
+|---|---|
+| **Kelas** | Mage Swordsman — menggabungkan sihir dan pedang |
+| **Sihir** | — |
+| **Ilmu Pedang** | — |
+| **Gaya** | Solo fighter — bisa menangani segala situasi sendiri |
+
+---
+
+### 12.6 Profil Misterius
+
+| Aspek | Detail |
+|---|---|
+| **Kemunculan** | **Sangat jarang** — hampir tidak pernah terlihat |
+| **Alasan muncul** | Tidak diketahui — kadang sekadar gabut, ikut party amatir, atau sekadar lewat |
+| **Kemampuan menyamar** | Bisa — nyaman berbaur tanpa terdeteksi |
+| **Akses Noark** | Bisa masuk-keluar Noark tanpa terdeteksi |
+| **Akses Forum Evil Spirit** | Bisa masuk — cara masuknya tidak diketahui |
+| **Reputasi** | Hampir tidak ada yang tahu siapa Abel — yang tahu sangat sedikit |
+
+---
+
+### 12.7 Rahasia (Belum Dijawab)
+
+| Pertanyaan | Status |
+|---|---|
+| Kenapa penuaan melambat? | 🔒 Ada alasan — terkait **item tertentu**, tapi item apa belum diketahui |
+| Kenapa dia bukan Evil Spirit tapi bukan NPC biasa? | 🔒 Belum dijawab |
+| Kenapa bisa masuk forum Evil Spirit? | 🔒 Belum dijawab |
+| Kenapa selalu solo? | 🔒 Ada alasan tertentu — belum dijawab |
+| Apa tujuan Abel setelah 40-50 tahun? | 🔒 Belum dijawab |
+| Apa efek rune di pedangnya? | 🔒 Belum dijawab |
+| Essence apa yang dimiliki? | 🔒 Belum dijawab |
+| Level & Rank berapa? | 🔒 Belum dijawab |
+| Kenapa nama "di Kaelthorn" — mirip gaya fairy? | 🔒 Belum dijawab |
+
+---
+
+### 12.8 Lantai Labyrinth yang Dikunjungi
+
+| Lantai | Status |
+|---|---|
+| 1-3 | ✅ Biasa — sudah melewati tahap ini |
+| 4-5 | ✅ Biasa — sudah terbiasa |
+| 6 | ✅ Pernah dikunjungi — detail belum diketahui |
+| 7+ | ❓ Belum ditentukan |
+
+---
+
+## 📎 13. DATA LAINNYA (Belum Ditulis — Space untuk Push)
 
 > Bagian ini dibiarkan kosong untuk diisi kemudian sesuai kebutuhan.
 

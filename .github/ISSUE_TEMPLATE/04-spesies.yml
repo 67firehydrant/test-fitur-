@@ -1,0 +1,60 @@
+---
+name: 🐉 Spesies Baru
+description: Tambahkan ras/makhluk baru ke Swaraloka
+labels: ["species", "wip"]
+title: "🐉 [Nama Spesies]"
+body:
+  - type: input
+    id: nama
+    attributes:
+      label: Nama Spesies
+      placeholder: "contoh: Naga Perak"
+    validations:
+      required: true
+  - type: dropdown
+    id: kategori
+    attributes:
+      label: Kategori
+      options:
+        - 🧑 Manusia
+        - 🐉 Naga
+        - 🌿 Makhluk Hutan
+        - 🌊 Makhluk Lautan
+        - 🪶 Makhluk Langit
+        - 🌑 Makhluk Kegelapan
+        - ✨ Ajaib / Lainnya
+  - type: textarea
+    id: habitat
+    attributes:
+      label: Habitat
+      description: Tempat tinggal alami
+  - type: textarea
+    id: kemampuan
+    attributes:
+      label: Kemampuan Khas
+      description: Kemampuan bawaan spesies
+  - type: textarea
+    id: mantra_alami
+    attributes:
+      label: Mantra Alami
+      description: Mantra yang melekat pada ras ini
+  - type: textarea
+    id: kelemahan
+    attributes:
+      label: Kelemahan
+      description: Kelemahan spesies
+  - type: textarea
+    id: penampilan
+    attributes:
+      label: Penampilan
+      description: Deskripsi fisik
+  - type: textarea
+    id: budaya
+    attributes:
+      label: Budaya
+      description: Adat & tradisi spesies
+  - type: textarea
+    id: asal_usul
+    attributes:
+      label: Asal Usul
+      description: Sejarah & mitos penciptaan spesies

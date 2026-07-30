@@ -1,0 +1,75 @@
+---
+name: 🗺️ Lokasi Baru
+description: Tambahkan lokasi baru ke Swaraloka
+labels: ["location", "wip"]
+title: "🗺️ [Nama Lokasi]"
+body:
+  - type: input
+    id: nama
+    attributes:
+      label: Nama Lokasi
+      placeholder: "contoh: Gunung Sumeru"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipe
+    attributes:
+      label: Tipe Lokasi
+      options:
+        - 🏙️ Kota
+        - 🏰 Istana / Benteng
+        - 🛕 Kuil / Candi
+        - 🌋 Gunung
+        - 🌊 Lautan / Danau
+        - 🌲 Hutan
+        - 🏜️ Gurun / Padang
+        - 🕳️ Gua
+        - 🏝️ Kepulauan
+        - 🌑 Tempat Gelap
+        - Lainnya
+  - type: dropdown
+    id: iklim
+    attributes:
+      label: Iklim
+      options:
+        - Tropis
+        - Sedang
+        - Dingin
+        - Gurun
+        - Ajaib / Tidak wajar
+  - type: input
+    id: faksi
+    attributes:
+      label: Faksi Dominan
+      placeholder: "Kerajaan / organisasi yang menguasai"
+  - type: textarea
+    id: deskripsi
+    attributes:
+      label: Deskripsi
+      description: Penampilan & atmosfer lokasi
+      placeholder: "Kota yang terletak di puncak gunung, selalu diselimuti kabut perak..."
+  - type: textarea
+    id: penghuni
+    attributes:
+      label: Penghuni & Spesies
+      description: Siapa yang tinggal di sini
+  - type: textarea
+    id: sumber_daya
+    attributes:
+      label: Sumber Daya
+      description: Apa yang bisa ditemukan di sini
+  - type: textarea
+    id: mantra_khas
+    attributes:
+      label: Mantra Khas
+      description: Mantra yang unik di wilayah ini
+  - type: textarea
+    id: sejarah
+    attributes:
+      label: Sejarah
+      description: Peristiwa penting di lokasi ini
+  - type: textarea
+    id: lokasi_penting
+    attributes:
+      label: Lokasi Penting di Dalamnya
+      description: Bangunan, tempat, atau area khusus

@@ -1,0 +1,64 @@
+---
+name: ⚔️ Faksi Baru
+description: Tambahkan kerajaan/organisasi baru ke Swaraloka
+labels: ["faction", "wip"]
+title: "⚔️ [Nama Faksi]"
+body:
+  - type: input
+    id: nama
+    attributes:
+      label: Nama Faksi
+      placeholder: "contoh: Kerajaan Swarnabhumi"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipe
+    attributes:
+      label: Tipe Faksi
+      options:
+        - 👑 Kerajaan
+        - 🛕 Sekte
+        - 🗡️ Persatuan
+        - 🎭 Komunitas
+        - 🌑 Kultus
+        - 🐉 Klan
+  - type: input
+    id: motto
+    attributes:
+      label: Motto
+      placeholder: "contoh: Dari nyanyian, kita bangun"
+  - type: input
+    id: pemimpin
+    attributes:
+      label: Pemimpin
+      placeholder: "Nama pemimpin saat ini"
+  - type: input
+    id: markas
+    attributes:
+      label: Markas
+      placeholder: "Lokasi utama faksi"
+  - type: textarea
+    id: deskripsi
+    attributes:
+      label: Deskripsi
+      description: Latar belakang & tujuan faksi
+  - type: textarea
+    id: mantra_khas
+    attributes:
+      label: Mantra Khas
+      description: Mantra yang dikembangkan faksi ini
+  - type: textarea
+    id: sekutu
+    attributes:
+      label: Sekutu
+      description: Faksi lain yang bersekutu
+  - type: textarea
+    id: musuh
+    attributes:
+      label: Musuh
+      description: Faksi lain yang bermusuhan
+  - type: textarea
+    id: rahasia
+    attributes:
+      label: Rahasia
+      description: Hal yang tidak diketahui publik tentang faksi ini
